@@ -1,2 +1,8 @@
 # G5
 G5 Update
+
+模块
+CPGL
+DDGL
+CPCK
+YZCK
